@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aayushman Pratap</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fharshchau.medium.com%2Fbest-practices-for-an-improved-serverless-developer-experience-88b83118d94a&psig=AOvVaw1yPIcP0Kp68I4CQEvjWNhH&ust=1647510478307000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKi0yvusyvYCFQAAAAAdAAAAABAM">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstormotion.io%2Fblog%2Ffull-time-developer-vs-freelancer-vs-software-development-company%2F&psig=AOvVaw0CRKngpS0efD6KP-gv06s0&ust=1647512272478000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCOvNSzyvYCFQAAAAAdAAAAABAD">
 
 
 <h3 align="left">Connect with me:</h3>
@@ -18,5 +18,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=introfect&show_icons=true&locale=en" alt="introfect" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=introfect&" alt="introfect" /></p>
-
-
